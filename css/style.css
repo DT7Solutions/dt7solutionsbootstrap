@@ -3257,7 +3257,7 @@ select.input-border {
 }
 .black-header #main-menu .navbar .nav > li.current > a, .header-black-white #main-menu .navbar .nav > li.current > a {
 	border-bottom: 2px solid rgba(255,255,255,1);
-	color:#fff; 
+	color:#fbf8f8; 
 }
 .affix.header-1 #main-menu .navbar .nav > li.current > a{
   margin-bottom: 13px;
@@ -11218,4 +11218,8 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 }
 .shop-ad-height {
   height:200px;
+}
+
+.power-design{
+  background-color: red !important;
 }
