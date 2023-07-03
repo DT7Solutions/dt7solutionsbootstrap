@@ -11223,3 +11223,11 @@ ul#flickr-feeds li a, ul#flickr-sfeeds li a img {
 .power-design{
   background-color: red !important;
 }
+.count-number1{
+
+    margin-top: 17px;
+    font-size: 45px;
+    line-height: 45px;
+    color: #4b4e53;
+    font-weight: 100;
+}
